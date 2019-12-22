@@ -1,0 +1,7 @@
+6,mail42@example.com
+5,admin@example.com
+4,mail85@example.com
+4,mail5@example.com
+3,mail1@example.com
+3,mail777@example.com
+1,mail85@example.com
